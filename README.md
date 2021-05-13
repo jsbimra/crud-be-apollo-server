@@ -3,5 +3,5 @@
 
 ## Design & Tecnologies used:
 #### Apollo Server Side
-#### GraphQL Client Side
+#### GraphQL
 #### NodeJS
